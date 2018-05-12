@@ -1,0 +1,34 @@
+_repo: Hoosier-Mosaics_36148
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thompson, Maurice
+    aliases:
+    - Thompson, James Maurice
+    - Thompson, J. Maurice (James Maurice)
+    birthdate: 1844
+    deathdate: 1901
+    gutenberg_agent_id: '1388'
+    url: http://www.gutenberg.org/2009/agents/1388
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Thompson
+description: ''
+gutenberg_issued: '2011-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36148'
+  lccn: 08019965
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indiana -- Social life and customs -- Fiction'
+- !lcc 'PS'
+tableOfContents: Was she a boy? -- Trout's luck -- Big medicine -- The Venus of Balhinch
+  -- The legend of Potato Creek -- Stealing a conductor -- Hoiden -- The pedagogue
+  -- An idyl of the rod.
+title: Hoosier Mosaics
+url: http://www.gutenberg.org/ebooks/36148
